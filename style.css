@@ -15,7 +15,7 @@ body {
 }
 
 .paper {
-  background-image: url("ruled.jpg");
+  background-image: url("gurge.jpg");
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
@@ -29,14 +29,18 @@ body {
 
 .paper.heart {
   position: relative;
-  width: 200px;
-  height: 200px;
-  padding: 0;
-  border-radius: 50%;
+  width: 100%
+  
+  
 }
 
-.paper.image {
-  padding: 10px;
+.paper.im{
+  background-image: url('elephant.jpg');
+  
+  background-size: 500px;
+  background-position: center center;
+  padding: 200px 300px;
+  
 }
 .paper.image p {
   font-size: 30px;
