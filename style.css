@@ -26,22 +26,19 @@ body {
   
   position: absolute;
 }
+.paper.image{
+  background-size: 350px;
+  
+
+}
 
 .paper.heart {
   position: relative;
-  width: 100%
+  width: 100%;
   
   
 }
 
-.paper.im{
-  background-image: url('ritika.jpeg');
-  
-  background-size: 500px;
-  background-position: center center;
-  padding: 200px 300px;
-  
-}
 .paper.image p {
   font-size: 30px;
 }
